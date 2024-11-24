@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋! My name is Aditi, I am a full stack developer from India</h1>
-# 💫 About Me:
-🚀 Passionate about Frontend and MERN Stack Development. 💻<br>🌱 Striving to master the MERN stack and build responsive, user-friendly web applications. ❤️<br>🛠️ Enthusiastic about exploring new tools, improving code quality, and crafting seamless solutions.<br>📚 Always learning through tech blogs, courses, and hands-on projects.<br>🎯 2024 Goals: Build a standout food-ordering website and grow my content creation journey.<br>⚡ Frontend enthusiast, MERN explorer, and lifelong learner. Occasionally human. 😄
+
 
 ###
 
@@ -9,7 +8,8 @@
 </div>
 
 ###
-
+💫 About Me:
+🚀 Passionate about Frontend and MERN Stack Development. 💻<br>🌱 Striving to master the MERN stack and build responsive, user-friendly web applications. ❤️<br>🛠️ Enthusiastic about exploring new tools, improving code quality, and crafting seamless solutions.<br>📚 Always learning through tech blogs, courses, and hands-on projects.<br>🎯 2024 Goals: Build a standout food-ordering website and grow my content creation journey.<br>⚡ Frontend enthusiast, MERN explorer, and lifelong learner. Occasionally human. 😄
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
